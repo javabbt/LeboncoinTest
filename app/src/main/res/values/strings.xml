@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Leboncoin test</string>
+    <string name="feature_home">Home</string>
+    <string name="title_activity_home">Leboncoin Test</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_placeholder">Search</string>
+    <string name="close">Close</string>
+    <string name="nothing_found">Nothing found. Check you internet connection</string>
+    <string name="unexpected_error">Oops, something went wrong</string>
+    <!-- string with placeholders -->
+    <string name="name">name :  </string>
+    <string name="type">album id : </string>
+    <string name="refresh">Refresh</string>
+</resources>
